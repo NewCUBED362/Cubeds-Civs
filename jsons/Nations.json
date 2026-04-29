@@ -196,8 +196,8 @@
 
     "tradeRequest": "I support any cooperation between our states.",
 
-    "outerColor": [133, 113, 97],
-    "innerColor": [214, 191, 171],
+    "outerColor": [214, 185, 42],
+    "innerColor": [11, 91, 148],
 	"uniqueName": "The Noobic Union",
     "uniques": ["[+1 Production, +1 Food] from [resource] tiles [in all cities]"],
 	"cities": ["Noscow","Nubizkyl","St. Ivanoburg","Krasnovolsk","Donetsar","Yaroslavy","Turovsk","Sakha","Vladimarsovtok","Krepostin Nipr","Gay",
