@@ -201,7 +201,7 @@
 	"uniqueName": "The Noobic Union",
     "uniques": ["[+1 Production, +1 Food] from [resource] tiles [in all cities]"],
 	"cities": ["Noscow","Nubizkyl","St. Ivanoburg","Krasnovolsk","Donetsar","Yaroslavy","Turovsk","Sakha","Vladimarsovtok","Krepostin Nipr","Gay",
-	           "Krasnoyarsk","Chornodar","Yelaskovsk","Yarskaya","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara"],
+	           "Krasnoyarsk","Chornodar","Yelaskovsk","Yarskaya","Dmizyl","Nomsk","Uzlontsy","Krovangarya","Kalgorod"],
     "spyNames": ["Sergei"]
 },
 ]
