@@ -79,7 +79,7 @@
     "spyNames": ["Shedletsky","ReeseMcBlox","BrightEyes","InceptionTime","whereismydragonator","UristMcSparks","pandachunli03","JParty","Sorcus"]
 },
 {
-	"name": "Westhelm",
+	"name": "Westhelm", // Ish's 1000 player civilization 
 	"leaderName": "Schpood",
     "preferredVictoryType": "Domination",
 	"personality": "Schpood",
@@ -105,7 +105,7 @@
     "spyNames": ["Acyrillic","DieselDevil05","THE DRIFTER 823","foxarific","T3kn0","triforce_power","Vadayn","TheLordAndSavior"]
 },
 {
-	"name": "Imperius",
+	"name": "Imperius", // Battle of Polytopia
 	"leaderName": "Dopilus",
     "preferredVictoryType": "Domination",
 	"personality": "Dopilus",
@@ -130,7 +130,7 @@
 		       "Doluste"],
 },
 {
-	"name": "Hoppers",
+	"name": "Hoppers", // Worldbox
 	"leaderName": "Djomo Djapeke",
     "preferredVictoryType": "Domination",
 	"personality": "Djomo Djapeke",
@@ -155,32 +155,7 @@
 "spyNames": ["Jopa","Japeke","Djato Djoteke","Djomo Djapeke","Japo Jota","Djety Jomy"]
 },
 {
-	"name": "Limbus Company",
-	"leaderName": "Vergilius",
-    "preferredVictoryType": "Domination",
-	"personality": "Vergilius",
-
-	"declaringWar": "Alright, everyone off.",
-	"attacked": "Alright, everyone off.",
-	"defeated": "*sigh* ...I'll have some words for my sinners after this...",
-    "denounced": "...I'm sick of this.",
-	"introduction": "Greetings, You may call me, Vergilius.",
-
-    "neutralHello": "Greetings...",
-    "hateHello": "...",
-
-    "tradeRequest": "What's with the long face? See something you don't like? Hm...",
-
-    "outerColor": [176, 28, 55],
-    "innerColor": [255, 239, 35],
-	"uniqueName": "Face the Sin, Save the E.G.O",
-    "uniques": ["[Military] units gain the [Clash] promotion","\"Borrows\" city names from other civilizations in the game"],
-	"cities": ["Limbus Company HQ"],
-    "spyNames": ["Yi Sang","Faust","Don Quixote","Ryōshū","Meursault","Hong Lu","Heathcliff","Ishmael","Rodion","Dante","Sinclair",
-             "Outis","Gregor"]
-},
-{
-	"name": "Wenja",
+	"name": "Wenja", // Farcry Primal
 	"leaderName": "Takkar",
     "preferredVictoryType": "Domination",
 	"personality": "Takkar",
@@ -203,5 +178,29 @@
 	"cities": ["Wenja Village","Nakuti Bonfire","Hayka Cave","Forgotten Glade","Stone Watch Bonfire","Swaras Outpost","Payska River Outpost",
 		       "Cave of Sun Walkers","Ring Wall Outpost","Kashatigri's Home","Mamaf Walk Pond","Hot Springs","Naymin of Spirits","Great Prashrawa"],
 "spyNames": ["Sayla","Tensay","Karoosh","Urki","Jayma","Dalso","Wogah"]
+},
+{
+	"name": "Noobic Union", // Blood Debt and Canadian Simulator
+	"leaderName": "Misha Golovachev",
+    "preferredVictoryType": "Scientific",
+	"personality": "Misha",
+
+	"declaringWar": "I only seek one thing in life, the destruction of capitalism worldwide. For that very reason, we declare war on your state!",
+	"attacked": "Fine then! If you want war, we will give you a war. Let's see who's national strength is greater.",
+	"defeated": "No! this cant be... The Noobic Union cannot be defeated... I refuse to believe that.",
+    "denounced": "You are completely blinded by western ideas. luckily, I know a way in which I can change that...",
+	"introduction": "Hello, comrade. My name is Misha Golovachev, General Secretary of the Noobic Union. As long as you are not a capitalist pig, we will do just fine.",
+
+    "neutralHello": "Hello.",
+    "hateHello": "What do YOU want!?",
+
+    "tradeRequest": "I support any cooperation between our states.",
+
+    "outerColor": [133, 113, 97],
+    "innerColor": [214, 191, 171],
+	"uniqueName": "The Noobic Union",
+    "uniques": ["[+1 Production, +1 Food] from [resource] tiles [in all cities]"],
+	"cities": ["Noscow"],
+"spyNames": ["Sergei"]
 },
 ]
