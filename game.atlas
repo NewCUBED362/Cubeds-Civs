@@ -6,140 +6,147 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Builder Brothers Pizza
   rotate: false
-  xy: 532, 140
+  xy: 724, 279
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Campsite
   rotate: false
-  xy: 724, 415
+  xy: 988, 671
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Stone Totems
   rotate: false
-  xy: 724, 687
+  xy: 268, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 BuildingIcons/Westhelm Colosseum
   rotate: false
-  xy: 860, 279
+  xy: 1532, 807
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ImprovementIcons/Bliss Plantation
   rotate: false
-  xy: 988, 815
+  xy: 532, 132
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Eden's Gate
   rotate: false
-  xy: 4, 276
+  xy: 4, 268
   size: 712, 667
   orig: 712, 667
   offset: 0, 0
   index: -1
 ReligionIcons/Project Eden's Gate
   rotate: false
-  xy: 4, 276
+  xy: 4, 268
   size: 712, 667
   orig: 712, 667
   offset: 0, 0
   index: -1
 NationIcons/Hoppers
   rotate: false
-  xy: 724, 279
+  xy: 988, 535
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Imperius
   rotate: false
-  xy: 1260, 815
+  xy: 1124, 671
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Limbus Company
   rotate: false
-  xy: 1396, 815
+  xy: 1260, 807
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
+NationIcons/Noobic Union
+  rotate: false
+  xy: 724, 679
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
 NationIcons/Robloxia
   rotate: false
-  xy: 1668, 815
+  xy: 1260, 671
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/VividVale
   rotate: false
-  xy: 860, 551
+  xy: 1260, 535
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Wenja
   rotate: false
-  xy: 268, 12
+  xy: 724, 415
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 NationIcons/Westhelm
   rotate: false
-  xy: 860, 415
+  xy: 1396, 671
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Bliss
   rotate: false
-  xy: 724, 551
+  xy: 988, 807
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Chosen
   rotate: false
-  xy: 1124, 815
+  xy: 1124, 807
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Linked Swordsman
   rotate: false
-  xy: 1532, 815
+  xy: 1124, 535
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Mammoth Rider
   rotate: false
-  xy: 4, 12
+  xy: 4, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 UnitIcons/Striker
   rotate: false
-  xy: 1804, 815
+  xy: 1396, 807
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Westhelm Legion
   rotate: false
-  xy: 532, 4
+  xy: 1396, 535
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
