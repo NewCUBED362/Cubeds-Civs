@@ -159,6 +159,7 @@
 	"leaderName": "Takkar",
     "preferredVictoryType": "Domination",
 	"personality": "Takkar",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "Valley of Oros not big enough for two of us.",
 	"attacked": "Takkar defend Wenja from attack.",
@@ -182,8 +183,10 @@
 {
 	"name": "Noobic Union", // Blood Debt and Canadian Simulator
 	"leaderName": "Misha Golovachev",
+	"startBias": ["Tundra"],
     "preferredVictoryType": "Scientific",
 	"personality": "Misha",
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "I only seek one thing in life, the destruction of capitalism worldwide. For that very reason, we declare war on your state!",
 	"attacked": "Fine then! If you want war, we will give you a war. Let's see who's national strength is greater.",
@@ -198,8 +201,8 @@
 
     "outerColor": [214, 185, 42],
     "innerColor": [11, 91, 148],
-	"uniqueName": "The Noobic Union",
-    "uniques": ["[+1 Production, +1 Food] from [resource] tiles [in all cities]"],
+	"uniqueName": "Mother Nussia",
+    "uniques": ["[+1 Production] [in all cities] <starting from the [Industrial era]>","[+30]% Strength <when fighting in [Tundra] tiles>"],
 	"cities": ["Noscow","Nubizkyl","St. Ivanoburg","Krasnovolsk","Donetsar","Yaroslavy","Turovsk","Sakha","Vladimarsovtok","Krepostin Nipr","Gay",
 	           "Krasnoyarsk","Chornodar","Yelaskovsk","Yarskaya","Dmizyl","Nomsk","Uzlontsy","Krovangarya","Kalgorod"],
     "spyNames": ["Sergei","Brigori","Gennadiy","Anzhelika","Viadimir","Miron","Liv","Alina"]
