@@ -1,0 +1,11 @@
+[
+	{
+		"name": "Clash", // only for Limbus Company units and subsequent upgrades
+		"uniques": ["[Target Unit] gains the [Stagger] status for [2] turn(s) <upon losing at least [15] HP in a single attack>"]
+	},
+// Status promotions
+	{
+		"name": "Stagger",
+		"uniques": ["Cannot attack","Cannot move"]
+	}
+]
