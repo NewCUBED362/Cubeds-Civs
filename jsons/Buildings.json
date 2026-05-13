@@ -51,5 +51,17 @@
 		"hurryCostModifier": 40,
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Tiykoon Bank",
+		"replaces": "Bank",
+		"uniqueTo": "Noobic Union",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"uniques": ["[+1 Gold] from [Luxury resource] tiles [in this city]"],
+		"requiredTech": "Banking"
 	}
 ]
