@@ -1,0 +1,35 @@
+[
+  {
+      "name": "Golovachev",
+      // Stats focused personalities
+      "culture": 4,
+      "faith": 2,
+      "food": 5,
+      "gold": 3,
+      "happiness": 5,
+      "production": 8,
+      "science": 7,
+      // Behavour focused personalities
+      "military": 8,
+      "aggressive": 6,
+      "declareWar": 6,
+      "commerce": 4,
+      "diplomacy": 5,
+      "loyal": 6,
+      "expansion": 8,
+      "denounceWillingness": 6,
+
+      "priorities": {
+          "Tradition": 4,
+          "Liberty": 2,
+          "Honor": 5,
+          "Commerce": 3,
+          "Patronage": 6,
+          "Piety": 1,
+          "Rationalism": 7,
+          "Freedom": 2,
+          "Autocracy": 4,
+          "Order": 9,
+      }
+  }
+]
