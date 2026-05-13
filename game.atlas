@@ -25,9 +25,16 @@ BuildingIcons/Stone Totems
   orig: 256, 256
   offset: 0, 0
   index: -1
+BuildingIcons/Tiykoon Bank
+  rotate: false
+  xy: 1260, 535
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 BuildingIcons/Westhelm Colosseum
   rotate: false
-  xy: 1532, 807
+  xy: 1396, 535
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -90,7 +97,7 @@ NationIcons/Robloxia
   index: -1
 NationIcons/VividVale
   rotate: false
-  xy: 1260, 535
+  xy: 1396, 671
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -104,7 +111,7 @@ NationIcons/Wenja
   index: -1
 NationIcons/Westhelm
   rotate: false
-  xy: 1396, 671
+  xy: 1532, 807
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -146,7 +153,7 @@ UnitIcons/Striker
   index: -1
 UnitIcons/Westhelm Legion
   rotate: false
-  xy: 1396, 535
+  xy: 1532, 671
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
