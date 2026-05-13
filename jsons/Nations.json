@@ -215,16 +215,15 @@
 	"personality": "Baugh",
 	"favoredReligion": "Christianity",
 
-	"declaringWar": "I only seek one thing in life, the destruction of capitalism worldwide. For that very reason, we declare war on your state!",
-	"attacked": "Fine then! If you want war, we will give you a war. Let's see who's national strength is greater.",
-	"defeated": "No! this cant be... The Noobic Union cannot be defeated... I refuse to believe that.",
-    "denounced": "You are completely blinded by western ideas. luckily, I know a way in which I can change that...",
-	"introduction": "Hello, comrade. My name is Misha Golovachev, General Secretary of the Noobic Union. As long as you are not a capitalist pig, we will do just fine.",
+	"declaringWar": "You are the reason I have sleep deprivation, because of that, we are going to war.",
+	"attacked": "Very well, we have seen bigger threats than you anyway.",
+	"defeated": "My nation of Molossia is gone. but I'm sure we will still be remembered.",
+	"introduction": "Welcome to Molossia, one of the smallest nations on earth, but what it lacks in size it makes up for in spirit.",
 
     "neutralHello": "Hello.",
     "hateHello": "What do YOU want!?",
 
-    "tradeRequest": "I support any cooperation between our states.",
+    "tradeRequest": "Let's have a trade between us, what do you say?",
 
     "outerColor": [3, 99, 254],
     "innerColor": [3, 203, 0],
