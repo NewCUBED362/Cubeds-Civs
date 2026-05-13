@@ -226,8 +226,8 @@
 
     "tradeRequest": "I support any cooperation between our states.",
 
-    "outerColor": [214, 185, 42],
-    "innerColor": [11, 91, 148],
+    "outerColor": [3, 99, 254],
+    "innerColor": [3, 203, 0],
 	"uniqueName": "Fair Molossia our Home",
 	"cities": ["Baughton"],
     "spyNames": ["Sergey","Brigori","Gennadiy","Anzhelika","Viadimir","Miron","Liv","Alina"]
