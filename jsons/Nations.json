@@ -208,7 +208,7 @@
     "spyNames": ["Sergey","Brigori","Gennadiy","Anzhelika","Viadimir","Miron","Liv","Alina"]
 },
 {
-	"name": "'WIP' Molossia", // Nevada, micro nation 
+	"name": "Molossia", // Nevada, micro nation 
 	"leaderName": "Kevin Baugh",
 	"startBias": ["Plains","Desert"],
     "preferredVictoryType": "Diplomatic",
@@ -227,8 +227,8 @@
 
     "outerColor": [3, 99, 254],
     "innerColor": [3, 203, 0],
-	"uniqueName": "Fair Molossia our Home",
-	"cities": ["Baughton"],
-    "spyNames": ["Sergey","Brigori","Gennadiy","Anzhelika","Viadimir","Miron","Liv","Alina"]
+	"uniqueName": "Fair Molossia is our home",
+	"cities": ["Baughston","Farfalla Province","Desert Homestead Province"],
+    "spyNames": ["Adrianne","Alexis","Norton","Miranda","Erik","Fritz","Juan","Angus","Paddy"]
 }
 ]
