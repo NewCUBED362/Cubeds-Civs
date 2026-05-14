@@ -226,7 +226,7 @@
     "tradeRequest": "Let's have a trade between us, what do you say?",
 
     "outerColor": [3, 99, 254],
-    "innerColor": [3, 203, 0],
+    "innerColor": [255, 255, 255],
 	"uniqueName": "Fair Molossia is our home",
 	"cities": ["Baughston","Farfalla Province","Desert Homestead Province","Red Square","Norton Park","Carson River","Sutro","Fort Churchill","Signoria of Ulivi",
 	           "Neptune Deep","Alphonse Simms Memorial Cosmodrome","Helicopter Rock","Gold Canyon","Virginia City","Questing Beast Town"],
