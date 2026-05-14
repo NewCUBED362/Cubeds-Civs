@@ -228,6 +228,7 @@
     "outerColor": [3, 99, 254],
     "innerColor": [255, 255, 255],
 	"uniqueName": "Fair Molossia is our home",
+	"uniques": ["[+2 Happiness] [in all cities] <when not at war>","[+50]% [Horses] resource production","[+75]% unhappiness from the number of cities"],
 	"cities": ["Baughston","Farfalla Province","Desert Homestead Province","Red Square","Norton Park","Carson River","Sutro","Fort Churchill","Signoria of Ulivi",
 	           "Neptune Deep","Alphonse Simms Memorial Cosmodrome","Helicopter Rock","Gold Canyon","Virginia City","Questing Beast Town"],
     "spyNames": ["Adrianne","Alexis","Norton","Miranda","Erik","Fritz","Juan","Angus","Paddy"]
