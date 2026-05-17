@@ -63,5 +63,10 @@
 		"requiredBuilding": "Market",
 		"uniques": ["[+1 Gold] from [Luxury resource] tiles [in this city]"],
 		"requiredTech": "Banking"
+	},
+	{
+		"name": "Terminal",
+		"uniqueTo": "The Hackers",
+		"cost": 0,
 	}
 ]
