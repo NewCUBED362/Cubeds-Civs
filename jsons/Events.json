@@ -4,12 +4,12 @@
    "text": "Please enter a command:",
    "choices": [
      {
-       "text": "Free Settler",
-       "uniques": [""],
+       "text": "free settler",
+       "uniques": ["Free [Settler] appears <in [Capital] cities>"],
      },
      {
-       "text": "Free Military Unit",
-       "uniques": [""],
+       "text": "free tech",
+       "uniques": ["Free Technology"],
      }
    ]
  }
