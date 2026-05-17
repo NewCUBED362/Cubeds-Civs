@@ -1,1 +1,16 @@
-
+[
+ {
+   "name": "Open Terminal",
+   "text": "Please enter a command:",
+   "choices": [
+     {
+       "text": "Free Settler",
+       "uniques": [""],
+     },
+     {
+       "text": "Free Military Unit",
+       "uniques": [""],
+     }
+   ]
+ }
+]
