@@ -252,7 +252,7 @@
     "outerColor": [0, 255, 0],
     "innerColor": [12, 54, 6],
 	"uniqueName": "Error - uniqueName missing",
-	"uniques": ["Comment [When creating the Terminal building, gain a free bonus. Terminal can be built multiple times]","Triggers a [Open Terminal] event <upon constructing [Terminal]>"],
+	"uniques": ["Comment [When creating the Terminal building, gain a free bonus. Terminal can be built multiple times]","Triggers a [Open Terminal] event <upon constructing [Terminal]> <hidden from users>"],
 	"cities": ["Base-1","Base-2","Base-3","Base-4","Base-5","Base-6","Base-7","Base-8","Base-9","Base-10","Base-11","Base-12","Base-13",
 		       "Base-14","Base-15","Base-16","Base-17","Base-18","Base-19","Base-20","Base-21","Base-22","Base-23"],
     "spyNames": ["FlyingBoat162","LargeLion23","EpicGamer69","SpanishDoor871","PolishedTruck595","JungleGold007","BickeringSneeze112","TrampledCamel827","PettingMonster20"]
