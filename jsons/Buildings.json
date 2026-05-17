@@ -68,5 +68,6 @@
 		"name": "Terminal",
 		"uniqueTo": "The Hackers",
 		"cost": 0,
+		"uniques": ["Can only be built <in [Capital] cities>"],
 	}
 ]
