@@ -5,11 +5,11 @@
    "choices": [
      {
        "text": "free settler",
-       "uniques": ["Free [Settler] appears <in [Capital] cities>"],
+       "uniques": ["Free [Settler] appears <in [Capital] cities>","Remove [Terminal] [in capital]"],
      },
      {
        "text": "free tech",
-       "uniques": ["Free Technology"],
+       "uniques": ["Free Technology","Remove [Terminal] [in capital]"],
      }
    ]
  }
