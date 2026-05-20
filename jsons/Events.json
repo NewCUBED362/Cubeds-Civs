@@ -4,13 +4,25 @@
    "text": "Please enter a command:",
    "choices": [
      {
+       "text": "free tech",
+       "uniques": ["Free Technology","Remove [Terminal] [in capital] <hidden from users>"],
+     },
+     {
+       "text": "free policy",
+       "uniques": ["Free Social Policy","Remove [Terminal] [in capital] <hidden from users>"],
+     },
+     {
        "text": "free settler",
        "uniques": ["Free [Settler] appears","Remove [Terminal] [in capital] <hidden from users>"],
      },
      {
-       "text": "free tech",
-       "uniques": ["Free Technology","Remove [Terminal] [in capital] <hidden from users>"],
-     }
+       "text": "free great person",
+       "uniques": ["Free Great Person","Remove [Terminal] [in capital] <hidden from users>"],
+     },
+     {
+       "text": "production",
+       "uniques": ["Gain [300] [Production] <in [all] cities>","Remove [Terminal] [in capital] <hidden from users>"],
+     },
    ]
  }
 ]
