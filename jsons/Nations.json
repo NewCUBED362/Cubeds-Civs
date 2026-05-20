@@ -26,6 +26,7 @@
     "uniques": ["[+1 Production, +1 Culture] in cities on [Coastal] tiles"],
 	"cities": ["Vividstrone","Railak","Daybo River","Coleston","Minvale","Manstown","Coalak","Bensberg","Galebourne","Waterview","Cannervale","Koola","Waggaton","Gorton","Sambay","Bunjitown",
                "Marth","Ganrick","Marakapi","Green Frog Gorge","Goodstone","Yukiri-yukiri Bay","Emu Handstrone","Once-upon-tyme","Good-City"],
+    "spyNames": ["Johno","Jack","Bluey","Angus","Lachlan","Bindi","Michelle","Mary","Kaylee"]
 },
 {
 	"name": "Eden's Gate",
